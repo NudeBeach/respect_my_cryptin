@@ -38,7 +38,7 @@ I broke my final analysis into three questions that I feel give the strongest re
 
 **1. Which coin had the highest mean positive score?**
 
-Ethereum analysis ended up involving 16 articles and concluding with a mean positive score of 0.063062 while Bitcoin analysis ended up involving 20 articles having a mean positive score of 0.075000. Therefore, we can clearly see that Bitcoin has a higher mean positive score. One could argue that this is because there are 4 more articles to analyze. I took this argument into account and then did a second analysis of Bitcoin but only with 16 articles. Bitcoin still beats Ethereum with a mean positive Score of 0.071250.
+Ethereum analysis ended up involving 16 articles and concluding with a mean positive score of 0.063062 while Bitcoin analysis ended up involving 20 articles having a mean positive score of 0.076050. Therefore, we can clearly see that Bitcoin has a higher mean positive score. One could argue that this is because there are 4 more articles to analyze. I took this argument into account and then did a second analysis of Bitcoin but only with 16 articles. Bitcoin still beats Ethereum with a mean positive Score of 0.072562.
 
 **2. Which coin had the highest compound score?**
 
