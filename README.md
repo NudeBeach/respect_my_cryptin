@@ -12,20 +12,25 @@ Ethereum would have the more positive sentiment because it is more than just a c
 I initially used the news api and nltk's sentiment analyzer to find the overall sentiment of my articles. I originally pulled 20 articles for Bitcoin and 16 articles for Ethereum. To then make the analysis equal I took the top 16 articles from the Bitcoin data.
 
 Here I have the sentiment scores for the Bitcoin articles.
+
 ![Bitcoin Sentiment Scores](/images/bitcoin_data.png)
 
 As already stated, I took the top 16 articles from Bitcoin to have an equal pool for the Ethereum sentiment comparisons. Here is the sentiment for those articles.
-![Bitcoin Top 16](/images/bitcoin_top16.png)
+
+![Bitcoin Top 16](/images/bitcoin_top16_data.png)
 
 Here I have the sentiment scores for the Ethereum articles.
+
 ![Ethereum Sentiment Scores](/images/ethereum_data.png)
 
 After looking at the sentiment scores I then did a deeper analysis of the actual words in the articles. I have included some word cloud visuals for a quick synopsis of my findings.
 
 Here I have the word cloud for Bitcoin.
+
 ![Bitcoin Word Cloud](/images/bitcoin_wordcloud.png)
 
 Here I also have the word cloud for Ethereum.
+
 ![Ethereum Word Cloud](/images/ethereum_word_cloud.png)
 
 I broke my final analysis into three questions that I feel give the strongest representation of the data. I will now state and answer each question below.
